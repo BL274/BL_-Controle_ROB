@@ -1,0 +1,9 @@
+{
+    "require": {
+        "twbs/bootstrap": "^4.4",
+        "monolog/monolog": "^2.0",
+        "jms/serializer": "1.7.*",
+        "phpdocumentor/phpdocumentor:^2.9"
+
+    }
+}
